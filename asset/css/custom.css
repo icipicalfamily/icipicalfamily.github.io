@@ -1,0 +1,18 @@
+/* your styles go here */
+.img-cal {
+    width: 500px !important;
+}
+.img-prod {
+	height: 20rem;
+	transition: 0.5s;
+}
+
+.img-prod:hover {
+	filter: grayscale(20);
+}
+.input-alamat {
+	border: none;
+	border-bottom: solid 1px #eee;
+	outline: none;
+	resize: none;
+}
